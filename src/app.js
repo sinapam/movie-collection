@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom'
 
 const App = () => (
     <section>
-        <h1>My Application</h1>
+        <h1>Movie Collection</h1>
     </section>
 )
 
