@@ -1,7 +1,7 @@
 {
-  "name": "react-1",
+  "name": "react-movie-collection",
   "version": "1.0.0",
-  "description": "Front techs course prototype for week 3",
+  "description": "Front techs course prototype",
   "main": "index.js",
   "scripts": {
     "build": "./node_modules/.bin/webpack --display-error-details",
